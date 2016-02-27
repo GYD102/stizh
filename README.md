@@ -27,7 +27,7 @@ Usage
 
 2) If it lags, create a KeyboardInterrupt to override the trial that is delaying
    the process.
-   * This is caused by a trial in which none of the columns were demolished.
+   *This is caused by a trial in which none of the columns were demolished.
 
 3) The program will print an average number of turns until every column is
    destroyed across a sample size of 1000 with damage constants of 3, 2.5, 2,
